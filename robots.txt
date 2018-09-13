@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: <https://PraveenSakthivel.github.io/sitemap.xml>
